@@ -15,24 +15,6 @@
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```typescript
-const DayLival334 = {
-  name:        "DayLival334",
-  username:    "DayLival334",
-  role:        ["Fullstack Developer", "Frontend Dev", "Backend Dev", "Data / ML / AI"],
-  languages:   ["JavaScript", "TypeScript", "Python", "C", "C++", "Pawn", "SQL"],
-  currentFocus: "Building scalable web apps & exploring AI/ML",
-  funFact:     "I debug with console.log and I'm not ashamed 😄",
-  openToWork:  true,
-};
-```
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 ### 💬 Languages
@@ -108,16 +90,6 @@ Data / ML / AI           ████████████░░░░░░�
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayLival334&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayLival334&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff"/>
-
-</div>
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DayLival334&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff)
@@ -142,7 +114,6 @@ Data / ML / AI           ████████████░░░░░░�
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DayLival334-181717?style=for-the-badge&logo=github)](https://github.com/DayLival334)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
