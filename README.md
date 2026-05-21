@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Dynamic Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Veloxal&fontSize=80&fontColor=00d4ff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=65&descSize=18&descColor=8892b0&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=DayLival334&fontSize=80&fontColor=00d4ff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=65&descSize=18&descColor=8892b0&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Veloxal+%F0%9F%91%8B;Fullstack+%2B+Frontend+%2B+Backend+Dev;Data+%2F+ML+%2F+AI+Explorer;Building+things+that+matter...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+DayLival334+%F0%9F%91%8B;Fullstack+%2B+Frontend+%2B+Backend+Dev;Data+%2F+ML+%2F+AI+Explorer;Building+things+that+matter...)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Veloxal&color=00d4ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Veloxal?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/DayLival334)
-[![GitHub stars](https://img.shields.io/github/stars/Veloxal?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/DayLival334)
+![Profile Views](https://komarev.com/ghpvc/?username=DayLival334&color=00d4ff&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/DayLival334?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/DayLival334)
+[![GitHub stars](https://img.shields.io/github/stars/DayLival334?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/DayLival334)
 
 </div>
 
@@ -20,9 +20,9 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const veloxal = {
-  name:        "Veloxal",
-  username:    "Veloxal",
+const DayLival334 = {
+  name:        "DayLival334",
+  username:    "DayLival334",
   role:        ["Fullstack Developer", "Frontend Dev", "Backend Dev", "Data / ML / AI"],
   languages:   ["JavaScript", "TypeScript", "Python", "C", "C++", "Pawn", "SQL"],
   currentFocus: "Building scalable web apps & exploring AI/ML",
@@ -114,13 +114,13 @@ Data / ML / AI           ████████████░░░░░░�
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayLival334&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veloxal&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayLival334&layout=compact&langs_count=8&theme=github_dark&border_color=00d4ff&title_color=00d4ff"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Veloxal&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DayLival334&theme=github-dark-blue&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff)
 
 </div>
 
@@ -130,7 +130,7 @@ Data / ML / AI           ████████████░░░░░░�
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Veloxal&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DayLival334&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
@@ -141,7 +141,7 @@ Data / ML / AI           ████████████░░░░░░�
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Veloxal-181717?style=for-the-badge&logo=github)](https://github.com/DayLival334)
+[![GitHub](https://img.shields.io/badge/GitHub-DayLival334-181717?style=for-the-badge&logo=github)](https://github.com/DayLival334)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
