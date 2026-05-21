@@ -24,8 +24,6 @@
 
 ## 📊 Where I'm At
 
-> Honest self-assessment. No fake numbers.
-
 ```
 Pawn Script        ███████████████████░░░  most comfortable here
 JavaScript / TS    █████████████░░░░░░░░░  actively learning
@@ -36,12 +34,6 @@ Frontend / CSS     ██████████░░░░░░░░░░�
 Backend / APIs     ████████░░░░░░░░░░░░░░  still figuring it out
 Data / ML / AI     █████░░░░░░░░░░░░░░░░░  just started exploring
 ```
-
-## 📁 Projects
-
-> Nothing public yet — still cooking. 🍳
->
-> First real projects coming soon.
 
 ---
 
