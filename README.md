@@ -10,24 +10,6 @@
 
 </div>
 
----
-
-## whoami
-
-```js
-const daydev = {
-  username : "DayLival334",
-  name     : "DayDev.",
-  status   : "early stage developer — building in public",
-  learning : ["JavaScript", "TypeScript", "Python", "C/C++", "SQL"],
-  strongest: "Pawn scripting (game server dev)",
-  goal     : "ship real projects, keep learning",
-  motto    : "I Can.",
-};
-```
-
----
-
 ## 🧰 Languages I Work With
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -54,20 +36,6 @@ Frontend / CSS     ██████████░░░░░░░░░░�
 Backend / APIs     ████████░░░░░░░░░░░░░░  still figuring it out
 Data / ML / AI     █████░░░░░░░░░░░░░░░░░  just started exploring
 ```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DayLival334&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&hide_border=false"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayLival334&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&title_color=58a6ff&hide_border=false"/>
-
-</div>
-
----
 
 ## 📁 Projects
 
